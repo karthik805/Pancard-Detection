@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or suggestions, feel free to reach out to [Your Name](https://www.linkedin.com/in/karthikbs85/) on LinkedIn.
+For questions or suggestions, feel free to reach out to [B.S Karthik ](https://www.linkedin.com/in/karthikbs85/) on LinkedIn.
